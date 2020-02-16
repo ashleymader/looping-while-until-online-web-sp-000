@@ -3,7 +3,7 @@ def using_until
   counter = 6
   until levitation_force == 10 
   puts "Wingardium Leviosa"
-  counter += 1
+  levitation_forcecounter += 1
   end
 end
 
