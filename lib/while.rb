@@ -7,6 +7,7 @@ def using_while
 	  if counter >=10 
 	    break
 	 end
+	 end
 end
 
 
