@@ -4,7 +4,8 @@ def using_while
 	loop do 
 	  counter += 1
 	  puts "Wingardium Leviosa"
-	  
+	  if counter >=10 
+	    break
 	 end
 end
 
